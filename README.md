@@ -1,2 +1,2 @@
 # kalayki.github.io
-Open source project for kalayki
+Repo for source-code of website of kalayki
