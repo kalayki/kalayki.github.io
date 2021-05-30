@@ -1,8 +1,8 @@
 {
   "name": "Kalayki",
   "short_name": "Kalayki",
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "theme_color": "#047aed",
+  "background_color": "#047aed",
   "display": "browser",
   "Scope": "/",
   "start_url": "/",
