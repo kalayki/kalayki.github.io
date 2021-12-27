@@ -1,0 +1,22 @@
+{
+  "name": "Kalayki",
+  "short_name": "Kalayki",
+  "theme_color": "#047aed",
+  "background_color": "#047aed",
+  "display": "browser",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "images/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
